@@ -1,0 +1,16 @@
+[submodule "Axelrod"]
+	path = Axelrod
+	url = https://github.com/Axelrod-Python/Axelrod.git
+	branch = master
+[submodule "python-constraint"]
+	path = python-constraint
+	url = https://github.com/python-constraint/python-constraint.git
+	branch = master
+[submodule "aima-python"]
+	path = aima-python
+	url = https://github.com/aimacode/aima-python.git
+	branch = master
+[submodule "aima-data"]
+	path = aima-data
+	url = https://github.com/aimacode/aima-data.git
+	branch = master
